@@ -7,3 +7,10 @@
 **Thoughts :** Need to find and use other models for to improve my prediction model.
 
 **Link to work :** [Housing Prices](https://www.kaggle.com/genigaus/exercise-machine-learning-competitions/)
+
+
+## Day 1: September 17, 2018
+
+**Today's Progress :** Learnt about cross-validation and data leakage(how to recognize and prevent it).
+
+**Thoughts :** Need to find and use other models for to improve my prediction model and learn about other ML techniques.

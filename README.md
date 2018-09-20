@@ -21,3 +21,10 @@
 **Today's Progress :** Trying to improve Deep Sort. Finally setup Yolo in google colab. Trying to use Yolo to get detection box for a video I created. I will apply these detections to modified deep sort and try to see how my code is affecting tracking.
 
 **Thoughts :** I need a good laptop with Linux (Windows is giving me a tough time). I hope I am able to get some insights.
+
+
+## Day 3: September 19, 2018
+
+**Today's Progress :** Ran YOLO on my video to create bounding boxes.
+
+**Thoughts :**

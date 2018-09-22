@@ -57,4 +57,4 @@
 **Link to work :** [Transfer Learning](https://www.kaggle.com/genigaus/exercise-using-transfer-learning-a0c7fd),
 [Transfer Learning with Data Augmentation](https://www.kaggle.com/genigaus/exercise-data-augmentation),
 [Modeling from scratch](https://www.kaggle.com/genigaus/exercise-using-transfer-learning-a0c7fd),
-[Modeling from scratch with dropout and strides](https://www.kaggle.com/genigaus/exercise-using-transfer-learning-a0c7fd)
+[Modeling from scratch with dropout and strides](https://www.kaggle.com/genigaus/exercise-dropout-and-strides-for-larger-models?scriptVersionId=5898121)

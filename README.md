@@ -27,4 +27,21 @@
 
 **Today's Progress :** Ran YOLO on my video to create bounding boxes.
 
-**Thoughts :**
+**Thoughts :** Need to find bounding boxes in text format
+
+
+## Day 3: September 20, 2018
+
+**Today's Progress :** Began Deep Learning. Revising concepts including convolution, etc. Did some coding based on that.
+
+**Thoughts :** Need to find bounding boxes in text format.
+
+**Link to work :** [Convolution for CV](https://www.kaggle.com/genigaus/exercise-convolutions-for-computer-vision)
+                   [Tensorflow and Keras](https://www.kaggle.com/genigaus/exercise-coding-in-tensorflow-and-keras-a9eac3)
+                   
+
+## Day 4: September 21, 2018
+
+**Today's Progress :** Found a dataset of drivers and their locations. Going through the dataset to get some insights.
+
+**Thoughts :** Need to find out pattern in data and create use cases

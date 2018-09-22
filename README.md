@@ -50,7 +50,7 @@
 
 ## Day 3: September 22, 2018
 
-**Today's Progress :** Implemented Transfer Learning and data augmentation, built and ran a model from scratch on MNIST fashion dataset. Used Dropout and Strides to improve performance and robustness of model.
+**Today's Progress :** Implemented Transfer Learning and data augmentation, built and ran a model from scratch on MNIST fashion dataset. Used Dropout and Strides to improve performance and robustness of model. Implemented Classification of MNIST data with 98.84% validation accuracy.
 
 **Thoughts :** 
 
@@ -58,3 +58,4 @@
 [Transfer Learning with Data Augmentation](https://www.kaggle.com/genigaus/exercise-data-augmentation),
 [Modeling from scratch](https://www.kaggle.com/genigaus/exercise-using-transfer-learning-a0c7fd),
 [Modeling from scratch with dropout and strides](https://www.kaggle.com/genigaus/exercise-dropout-and-strides-for-larger-models?scriptVersionId=5898121)
+[Modeling from scratch with dropout and strides](https://github.com/GeniGaus/100DaysOfMLCode/blob/master/MNIST.ipynb)

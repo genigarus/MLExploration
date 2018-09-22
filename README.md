@@ -36,12 +36,25 @@
 
 **Thoughts :** Need to find bounding boxes in text format.
 
-**Link to work :** [Convolution for CV](https://www.kaggle.com/genigaus/exercise-convolutions-for-computer-vision)
-                   [Tensorflow and Keras](https://www.kaggle.com/genigaus/exercise-coding-in-tensorflow-and-keras-a9eac3)
+**Link to work :** [Convolution for CV](https://www.kaggle.com/genigaus/exercise-convolutions-for-computer-vision),
+
+[Tensorflow and Keras](https://www.kaggle.com/genigaus/exercise-coding-in-tensorflow-and-keras-a9eac3)
                    
 
 ## Day 4: September 21, 2018
 
-**Today's Progress :** Found a dataset of drivers and their locations. Going through the dataset to get some insights.
+**Today's Progress :** Read Transfer Learning. Found a dataset of drivers and their locations. Going through the dataset to get some insights.
 
 **Thoughts :** Need to find out pattern in data and create use cases
+
+
+## Day 3: September 22, 2018
+
+**Today's Progress :** Implemented Transfer Learning and data augmentation, built and ran a model from scratch on MNIST fashion dataset. Used Dropout and Strides to improve performance and robustness of model.
+
+**Thoughts :** 
+
+**Link to work :** [Transfer Learning](https://www.kaggle.com/genigaus/exercise-using-transfer-learning-a0c7fd),
+[Transfer Learning with Data Augmentation](https://www.kaggle.com/genigaus/exercise-data-augmentation),
+[Modeling from scratch](https://www.kaggle.com/genigaus/exercise-using-transfer-learning-a0c7fd),
+[Modeling from scratch with dropout and strides](https://www.kaggle.com/genigaus/exercise-using-transfer-learning-a0c7fd)

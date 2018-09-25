@@ -45,17 +45,33 @@
 
 **Today's Progress :** Read Transfer Learning. Found a dataset of drivers and their locations. Going through the dataset to get some insights.
 
-**Thoughts :** Need to find out pattern in data and create use cases
+**Thoughts :** Need to find out pattern in data and create use cases.
 
 
 ## Day 3: September 22, 2018
 
 **Today's Progress :** Implemented Transfer Learning and data augmentation, built and ran a model from scratch on MNIST fashion dataset. Used Dropout and Strides to improve performance and robustness of model. Implemented Classification of MNIST data with 98.84% validation accuracy.
 
-**Thoughts :** 
+**Thoughts :** Improve accuracy of MNIST classification model to reach state-of-the-art accuracy.
 
 **Link to work :** [Transfer Learning](https://www.kaggle.com/genigaus/exercise-using-transfer-learning-a0c7fd),
 [Transfer Learning with Data Augmentation](https://www.kaggle.com/genigaus/exercise-data-augmentation),
 [Modeling from scratch](https://www.kaggle.com/genigaus/exercise-using-transfer-learning-a0c7fd),
 [Modeling from scratch with dropout and strides](https://www.kaggle.com/genigaus/exercise-dropout-and-strides-for-larger-models?scriptVersionId=5898121)
 [Modeling from scratch with dropout and strides](https://github.com/GeniGaus/100DaysOfMLCode/blob/master/MNIST.ipynb)
+
+
+## Day 3: September 23, 2018
+
+**Today's Progress :** Learnt about residual network and implemented a ResNet model on CIFAR10 dataset. Learnt about optimization techniques SGD with momentum.
+
+**Thoughts :** Need to read ResNet papers and implement advanced models.
+
+**Link to work :** [ResNet](https://colab.research.google.com/drive/1G9hSbhWjSCOnMdOcVS9zsGyzosVrxEu6)
+
+
+## Day 3: September 24, 2018
+
+**Today's Progress :** Learnt about Inception module and Inception network.
+
+**Thoughts :** Need to read ResNet papers and implement advanced models.

@@ -75,3 +75,17 @@
 **Today's Progress :** Learnt about Inception module and Inception network.
 
 **Thoughts :** Need to read ResNet papers and implement advanced models.
+
+
+## Day 4: September 25, 2018
+
+**Today's Progress :** Started reading about Recurrent Neural Network.
+
+**Thoughts :** Need to read ResNet papers and implement advanced models and continue on RNNs.
+
+
+## Day 5: September 26, 2018
+
+**Today's Progress :** Continued reading about Recurrent Neural Network.
+
+**Thoughts :** Need to start implementing RNNs.

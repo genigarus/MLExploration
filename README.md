@@ -79,13 +79,43 @@
 
 ## Day 4: September 25, 2018
 
-**Today's Progress :** Started reading about Recurrent Neural Network.
+**Today's Progress :** Started reading about Sequence Models.
 
 **Thoughts :** Need to read ResNet papers and implement advanced models and continue on RNNs.
 
 
 ## Day 5: September 26, 2018
 
+**Today's Progress :** Started reading about Recurrent Neural Network.
+
+**Thoughts :** Need to understand better and read paper.
+
+
+## Day 6: September 27, 2018
+
 **Today's Progress :** Continued reading about Recurrent Neural Network.
 
+**Thoughts :** Need to understand better.
+
+
+## Day 7: September 28, 2018
+
+**Today's Progress :** Continued reading about Recurrent Neural Network.
+
+**Thoughts :** Need to understand better.
+
+
+## Day 8: September 29 2018
+
+**Today's Progress :** Continued reading about Recurrent Neural Network(GRU and LSTM).
+
 **Thoughts :** Need to start implementing RNNs.
+
+
+## Day 9: September 30 2018
+
+**Today's Progress :** Implemented LSTM network in tensorflow to predict next word with 93.1% accuracy and another LSTM network in Keras for sentiment prediction with 86.73% accuracy using IMDB movie review database. Started with DenseNet.
+
+**Thoughts :** Need to implement RNNs to other sequence databases.
+
+**Link to work :** [Next word prediction](https://colab.research.google.com/drive/1EQo9ieqtlIy42wS-Dk2MqHJwsA-53dt-), [Sentiment prediction](https://colab.research.google.com/drive/1mql7EEUB8dBg8OVxlE5SFSjlQvKDEcH2)

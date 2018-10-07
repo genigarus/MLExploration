@@ -119,3 +119,40 @@
 **Thoughts :** Need to implement RNNs to other sequence databases.
 
 **Link to work :** [Next word prediction](https://colab.research.google.com/drive/1EQo9ieqtlIy42wS-Dk2MqHJwsA-53dt-), [Sentiment prediction](https://colab.research.google.com/drive/1mql7EEUB8dBg8OVxlE5SFSjlQvKDEcH2)
+
+
+## Day 10: October 1 2018
+
+**Today's Progress :** Implemented LSTM network in tensorflow to predict next word with 93.1% accuracy and another LSTM network in Keras for sentiment prediction with 86.73% accuracy using IMDB movie review database. Started with DenseNet.
+
+**Thoughts :** Need to implement RNNs to other sequence databases.
+
+
+## Day 11: October 3 2018
+
+**Today's Progress :** Implemented LSTM network in tensorflow to predict next word with 93.1% accuracy and another LSTM network in Keras for sentiment prediction with 86.73% accuracy using IMDB movie review database. Started with DenseNet.
+
+**Thoughts :** Need to implement RNNs to other sequence databases.
+
+
+## Day 12: October 4 2018
+
+**Today's Progress :** Implemented LSTM network in tensorflow to predict next word with 93.1% accuracy and another LSTM network in Keras for sentiment prediction with 86.73% accuracy using IMDB movie review database. Started with DenseNet.
+
+**Thoughts :** Need to implement RNNs to other sequence databases.
+
+
+## Day 13: October 5 2018
+
+**Today's Progress :** Implemented LSTM network in tensorflow to predict next word with 93.1% accuracy and another LSTM network in Keras for sentiment prediction with 86.73% accuracy using IMDB movie review database. Started with DenseNet.
+
+**Thoughts :** Need to implement RNNs to other sequence databases.
+
+
+## Day 14: October 6 2018
+
+**Today's Progress :** Read about Unsupervised Learning and SOM. Implemented SOM network in python to detect fraud in credi card applications.
+
+**Thoughts :** Should try to write SOM from scratch.
+
+**Link to work :** [Credit Card Fraud Detection](https://github.com/GeniGaus/100DaysOfMLCode/tree/master/DLPractice/FraudDetection)

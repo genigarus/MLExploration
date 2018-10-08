@@ -123,36 +123,45 @@
 
 ## Day 10: October 1 2018
 
-**Today's Progress :** Implemented LSTM network in tensorflow to predict next word with 93.1% accuracy and another LSTM network in Keras for sentiment prediction with 86.73% accuracy using IMDB movie review database. Started with DenseNet.
+**Today's Progress :** Started reading about data modelling.
 
-**Thoughts :** Need to implement RNNs to other sequence databases.
+**Thoughts :** 
 
 
 ## Day 11: October 3 2018
 
-**Today's Progress :** Implemented LSTM network in tensorflow to predict next word with 93.1% accuracy and another LSTM network in Keras for sentiment prediction with 86.73% accuracy using IMDB movie review database. Started with DenseNet.
+**Today's Progress :** Revised ANN and related concepts.
 
-**Thoughts :** Need to implement RNNs to other sequence databases.
+**Thoughts :** 
 
 
 ## Day 12: October 4 2018
 
-**Today's Progress :** Implemented LSTM network in tensorflow to predict next word with 93.1% accuracy and another LSTM network in Keras for sentiment prediction with 86.73% accuracy using IMDB movie review database. Started with DenseNet.
+**Today's Progress :** Revised CNN and related concepts.
 
-**Thoughts :** Need to implement RNNs to other sequence databases.
+**Thoughts :** 
 
 
 ## Day 13: October 5 2018
 
-**Today's Progress :** Implemented LSTM network in tensorflow to predict next word with 93.1% accuracy and another LSTM network in Keras for sentiment prediction with 86.73% accuracy using IMDB movie review database. Started with DenseNet.
+**Today's Progress :** Started reading pytorch
 
-**Thoughts :** Need to implement RNNs to other sequence databases.
+**Thoughts :** 
 
 
 ## Day 14: October 6 2018
 
-**Today's Progress :** Read about Unsupervised Learning and SOM. Implemented SOM network in python to detect fraud in credi card applications.
+**Today's Progress :** Read about Unsupervised Learning and SOM. Implemented SOM network in python to detect fraud in credit card applications.
 
 **Thoughts :** Should try to write SOM from scratch.
 
 **Link to work :** [Credit Card Fraud Detection](https://github.com/GeniGaus/100DaysOfMLCode/tree/master/DLPractice/FraudDetection)
+
+
+## Day 15: October 7 2018
+
+**Today's Progress :** Implemented SOM network in python to calculate probability of fraud in each credit card applications. Read about Boltzmann Machine. 
+
+**Thoughts :** Should try to write SOM from scratch. Should understand and implement BM.
+
+**Link to work :** [Credit Card Fraud Detection](https://github.com/GeniGaus/100DaysOfMLCode/tree/master/DLPractice/FraudDetectionWithProbability)

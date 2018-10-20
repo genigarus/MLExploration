@@ -165,3 +165,84 @@
 **Thoughts :** Should try to write SOM from scratch. Should understand and implement BM.
 
 **Link to work :** [Credit Card Fraud Detection](https://github.com/GeniGaus/100DaysOfMLCode/tree/master/DLPractice/FraudDetectionWithProbability)
+
+
+## Day 16: October 8 2018
+
+**Today's Progress :** Continued reading Boltzmann Machine. 
+
+
+## Day 17: October 9 2018
+
+**Today's Progress :** Continued reading Boltzmann Machine. 
+
+
+## Day 18: October 10 2018
+
+**Today's Progress :** Continued reading Boltzmann Machine. 
+
+
+## Day 19: October 11 2018
+
+**Today's Progress :** Continued reading Boltzmann Machine. 
+
+
+## Day 20: October 12 2018
+
+**Today's Progress :** Started reading Restricted Boltzmann Machine. 
+
+
+## Day 21: October 13 2018
+
+**Today's Progress :** Continued reading Restricted Boltzmann Machine. 
+
+
+## Day 22: October 14 2018
+
+**Today's Progress :** Continued reading Restricted Boltzmann Machine and started implementing it using pytorch to build a binary prediction system to predict whether a user will like the movie or not. 
+
+**Thoughts :** Should try to write SOM from scratch. Should understand and implement BM.
+
+**Link to work :** [Movie Review Prediction System](https://colab.research.google.com/drive/1_mwWpDSXrVC6PL4sHlaFODi4yx6EzDgg#scrollTo=9tsPI05Zj1Nd)
+
+
+## Day 23: October 15 2018
+
+**Today's Progress :** Continued reading Restricted Boltzmann Machine and continued implementing movie review prediction system.
+
+**Link to work :** [Movie Review Prediction System](https://colab.research.google.com/drive/1_mwWpDSXrVC6PL4sHlaFODi4yx6EzDgg#scrollTo=9tsPI05Zj1Nd)
+
+
+## Day 24: October 16 2018
+
+**Today's Progress :** Continued reading Restricted Boltzmann Machine and continued implementing movie review prediction system.
+
+**Link to work :** [Movie Review Prediction System](https://colab.research.google.com/drive/1_mwWpDSXrVC6PL4sHlaFODi4yx6EzDgg#scrollTo=9tsPI05Zj1Nd)
+
+
+## Day 25: October 17 2018
+
+**Today's Progress :** Continued reading Restricted Boltzmann Machine and continued implementing movie review prediction system.
+
+**Link to work :** [Movie Review Prediction System](https://colab.research.google.com/drive/1_mwWpDSXrVC6PL4sHlaFODi4yx6EzDgg#scrollTo=9tsPI05Zj1Nd)
+
+
+## Day 26: October 18 2018
+
+**Today's Progress :** Continued reading Restricted Boltzmann Machine and continued implementing movie review prediction system.
+
+**Link to work :** [Movie Review Prediction System](https://colab.research.google.com/drive/1_mwWpDSXrVC6PL4sHlaFODi4yx6EzDgg#scrollTo=9tsPI05Zj1Nd)
+
+
+## Day 27: October 19 2018
+
+**Today's Progress :** Continued reading Restricted Boltzmann Machine and continued implementing movie review prediction system.
+
+**Link to work :** [Movie Review Prediction System](https://colab.research.google.com/drive/1_mwWpDSXrVC6PL4sHlaFODi4yx6EzDgg#scrollTo=9tsPI05Zj1Nd)
+
+
+## Day 28: October 20 2018
+
+**Today's Progress :** Continued implementing movie review prediction system.
+
+**Link to work :** [Movie Review Prediction System](https://colab.research.google.com/drive/1_mwWpDSXrVC6PL4sHlaFODi4yx6EzDgg#scrollTo=9tsPI05Zj1Nd)

@@ -253,3 +253,10 @@
 **Today's Progress :** Continued reading about Auto Encoders. Implemented Denoising images using Auto Encoder on MNIST data in Keras and started implementing *Movie Recommender System using Autoencoders* in Pytorch.
 
 **Link to work :** [Auto Encoders in Keras](https://colab.research.google.com/drive/1Ka5oz9lGKzvJZD_pEiQljzyXsBhcT3Rs#scrollTo=IwfJqXh87_J1), [Movie Recommender System using Autoencoders](https://colab.research.google.com/drive/1CTm2AiMF1rqPetcaEbcQjcbjCzGU61FZ#scrollTo=nY3jklQfWPGm)
+
+
+## Day 30: October 22 2018
+
+**Today's Progress :** Continued reading about Auto Encoders. Continued implementing *Movie Recommender System using Autoencoders* in Pytorch.
+
+**Link to work :** [Movie Recommender System using Autoencoders](https://colab.research.google.com/drive/1CTm2AiMF1rqPetcaEbcQjcbjCzGU61FZ#scrollTo=nY3jklQfWPGm)

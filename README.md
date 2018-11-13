@@ -260,3 +260,10 @@
 **Today's Progress :** Continued reading about Auto Encoders. Continued implementing *Movie Recommender System using Autoencoders* in Pytorch.
 
 **Link to work :** [Movie Recommender System using Autoencoders](https://colab.research.google.com/drive/1CTm2AiMF1rqPetcaEbcQjcbjCzGU61FZ#scrollTo=nY3jklQfWPGm)
+
+
+## Day 31: November 3 2018
+
+**Today's Progress :** Improved the accuracy of my *HousingPrice* model.
+
+**Link to work :** [Kaggle: Housing Prices](https://www.kaggle.com/genigaus/exercise-machine-learning-competitions?scriptVersionId=7072641)

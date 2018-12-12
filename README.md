@@ -267,3 +267,10 @@
 **Today's Progress :** Improved the accuracy of my *HousingPrice* model.
 
 **Link to work :** [Kaggle: Housing Prices](https://www.kaggle.com/genigaus/exercise-machine-learning-competitions?scriptVersionId=7072641)
+
+
+## Day 32: December 11 2018
+
+**Today's Progress :** [Null and alternate hypothesis](https://www.youtube.com/watch?v=_Qlxt0HmuOo)
+
+**Link to work :** 

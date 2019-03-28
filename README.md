@@ -1,4 +1,4 @@
-# 100DaysOfMLCode
+# MLCode
 
 ## Day 0: September 16, 2018
 

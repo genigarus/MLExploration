@@ -1,6 +1,6 @@
 [Housing Prices](https://www.kaggle.com/genigaus/exercise-machine-learning-competitions/)
 
-[Convolution for CV](https://www.kaggle.com/genigaus/exercise-convolutions-for-computer-vision),
+[Convolution for CV](https://www.kaggle.com/genigaus/exercise-convolutions-for-computer-vision)
 
 [Tensorflow and Keras](https://www.kaggle.com/genigaus/exercise-coding-in-tensorflow-and-keras-a9eac3)
 
